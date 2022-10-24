@@ -19,11 +19,12 @@
 <h1 align='center'>Projects</h1>
 <h3 align='center'>Dora</h3>
 <a target="_blank" href="https://github.com/leandro-alba/dora3">
-  <img src="dora3.gif" width="100%" alt=""/>
+  <img src="dora3.gif" width="100%" alt="Dora"/>
 </a>
-<h3 align='center'>Dora</h3>
-<a target="_blank" href="https://github.com/leandro-alba/dora3">
-  <img src="dora3.gif" width="100%" alt=""/>
+<hr>
+<h3 align='center'>Happy Notes</h3>
+<a target="_blank" href="https://github.com/leandro-alba/happy-notes">
+  <img src="happynotes.gif" width="100%" alt="happy notes"/>
 </a>
 <br>
 <h1 align="center">Technologies</h1>
