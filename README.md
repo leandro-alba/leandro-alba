@@ -24,15 +24,19 @@
         <a target="_blank" href="https://github.com/leandro-alba/dora3">
           <img src="dora3.gif" width="100%" alt="Dora"/>
         </a>
-        <p><strong>JavaScript, Bootstrap, Node.js, EJS, Express, MongoDB, Mongoose, Cloudinary, Passport, Bcrypt, Express, Morgan, Multer</strong> - Social question and anwser web app that helps users with questions get answers!</p>
+        <p><strong>JavaScript, Bootstrap, Node.js, EJS, Express, MongoDB, Mongoose, Cloudinary, Passport, Bcrypt, Express, Morgan, Multer, Nodemon, Validator</strong> - Social question and anwser web app that helps users with questions get answers!</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align='center'>Happy Notes</h3>
+        <a target="_blank" href="https://github.com/leandro-alba/happy-notes">
+          <img src="happynotes.gif" width="100%" alt="happy notes"/>
+        </a>
+      <p><strong>Bcrypt, Connect-mongo, dotenv, EJS, Express, Express-flash, Express-session, MongoDB, Mongoose, Morgan, Nodemon, Passport, Passport-local, Validator, Materialize, Swiper.js</stong> - A study note taking application in the style of flash cards.</p>
     </td>
   </tr>
 </table>
-<hr>
-<h3 align='center'>Happy Notes</h3>
-<a target="_blank" href="https://github.com/leandro-alba/happy-notes">
-  <img src="happynotes.gif" width="100%" alt="happy notes"/>
-</a>
 <br>
 <h1 align="center">Technologies</h1>
 <p align="center">
