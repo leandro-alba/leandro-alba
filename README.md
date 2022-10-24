@@ -46,6 +46,16 @@
       <p><strong>HTML, CSS, JavaScript, EJS, Express, MongoDB, Nodemon, Mongoose</strong> - Model, View, Controller lecture in a CRUD app. Users learn about MVC by interating with the app.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3 align='center'>Couch to 5k</h3>
+      <a target='_blank' href='https://c25k.herokuapp.com/'>
+        <img src="c25k.gif" width="100%" alt="c25k"/>
+      </a>
+      <a align='center' target='_blank' href='https://github.com/leandro-alba/c25k'>Link to Couch to 5k repo</a>
+      <p><strong>HTML, CSS, Javascript, EJS, Node.js, MongoDB, Mongoose, Nodemon</strong> - This is a personal web app I use to track my couch to 5k progress! It solved the problem of me having to switch apps on my phone while in the middle of a run.</p>
+    </td>
+  </tr>
 </table>
 <br>
 <h1 align="center">Technologies</h1>
