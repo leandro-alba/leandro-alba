@@ -52,8 +52,18 @@
       <a target='_blank' href='https://c25k.herokuapp.com/'>
         <img src="c25kweek6.gif" width="100%" alt="c25k"/>
       </a>
-      <a align='center' target='_blank' href='https://github.com/leandro-alba/c25k'>Link to Couch to 5k repo</a>
-      <p><strong>HTML, CSS, Javascript, EJS, Node.js, MongoDB, Mongoose, Nodemon</strong> - This is a personal web app I use to track my couch to 5k progress! It solved the problem of me having to switch apps on my phone while in the middle of a run.</p>
+      <a  target='_blank' href='https://github.com/leandro-alba/c25k'>Link to Couch to 5k repo</a>
+      <p><strong>HTML, CSS, Javascript, EJS, Node.js, MongoDB, Mongoose, Nodemon</strong> - This is a personal web app I use to track my couch to 5k progress! It solved the problem of me having to switch between apps on my phone while in the middle of a run.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align='center'>List of Colors CRUD app</h3>
+      <a target='_blank' href='https://simple-color-list.herokuapp.com/'>
+        <img src="color-list.gif" width="100%" alt="c25k"/>
+      </a>
+      <a target='_blank' href='https://github.com/leandro-alba/simple-express-app-submission'>Link to Color list CRUD app repo</a>
+      <p><strong>HTML, CSS, JavaScript, EJS, node.js, Express, MongoDB</strong> - A simple CRUD app containing a list of colors. I visit this list when I'm searching for a color I've saved for use on my other projects.</p>
     </td>
   </tr>
 </table>
