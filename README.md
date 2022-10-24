@@ -21,6 +21,10 @@
 <a target="_blank" href="https://github.com/leandro-alba/dora3">
   <img src="dora3.gif" width="100%" alt=""/>
 </a>
+<h3 align='center'>Dora</h3>
+<a target="_blank" href="https://github.com/leandro-alba/dora3">
+  <img src="dora3.gif" width="100%" alt=""/>
+</a>
 <br>
 <h1 align="center">Technologies</h1>
 <p align="center">
