@@ -33,7 +33,17 @@
         <a target="_blank" href="https://github.com/leandro-alba/happy-notes">
           <img src="happynotes.gif" width="100%" alt="happy notes"/>
         </a>
-      <p><strong>Bcrypt, Connect-mongo, dotenv, EJS, Express, Express-flash, Express-session, MongoDB, Mongoose, Morgan, Nodemon, Passport, Passport-local, Validator, Materialize, Swiper.js</stong> - A study note taking application in the style of flash cards.</p>
+      <p><strong>Bcrypt, Connect-mongo, dotenv, EJS, Express, Express-flash, Express-session, MongoDB, Mongoose, Morgan, Nodemon, Passport, Passport-local, Validator, Materialize, Swiper.js</strong> - A study note taking application in the style of flash cards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align='center'>Lecture on the Model, View, Controller architecture</h3>
+      <a target='_blank' href='https://lecture-on-mvc.herokuapp.com/'>
+        <img src="mvc.gif" width="100%" alt="MVC"/>
+      </a>
+      <a target='_blank' href='https://github.com/leandro-alba/todo-mvc'>Link to MVC repo</a>
+      <p><strong>HTML, CSS, JavaScript, EJS, Express, MongoDB, Nodemon, Mongoose</strong> - Model, View, Controller lecture in a CRUD app. Users learn about MVC by interating with the app.</p>
     </td>
   </tr>
 </table>
