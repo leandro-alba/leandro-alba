@@ -2,7 +2,7 @@
 ![colorlogo](https://user-images.githubusercontent.com/102470998/173071699-e6aadb80-2fc1-47ba-b229-d210a31c0265.png)
 
 <p align="center">
-  <a href="www.703-dev.com" target="_blank">
+  <a href="https://703-dev.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leandro-e-alba/" target="_blank">
