@@ -39,7 +39,7 @@
   <tr>
     <td>
       <h3 align='center'>Lecture on the Model, View, Controller architecture</h3>
-      <a target='_blank' href='https://lecture-on-mvc.herokuapp.com/'>
+      <a target='_blank' href='https://nice-teal-clownfish-yoke.cyclic.app/'>
         <img src="mvc.gif" width="100%" alt="MVC"/>
       </a>
       <a target='_blank' href='https://github.com/leandro-alba/todo-mvc'>Link to MVC repo</a>
