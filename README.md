@@ -52,7 +52,7 @@
   <tr>
     <td width='45%' valign='top'>
       <h3 align='center'>Couch to 5k</h3>
-      <a target='_blank' href='https://c25k.herokuapp.com/'>
+      <a target='_blank' href='https://gifted-rose-pelican.cyclic.app/'>
         <img src="c25kweek6.gif" width="100%" alt="c25k"/>
       </a>
       <a  target='_blank' href='https://github.com/leandro-alba/c25k'>Link to Couch to 5k repo</a>
