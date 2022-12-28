@@ -2,7 +2,7 @@
 ![colorlogo](https://user-images.githubusercontent.com/102470998/173071699-e6aadb80-2fc1-47ba-b229-d210a31c0265.png)
 
 <p align="center">
-  <a href="www.703-dev.com" target="_blank">
+  <a href="https://703-dev.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leandro-e-alba/" target="_blank">
@@ -39,7 +39,7 @@
   <!-- <tr>
     <td>
       <h3 align='center'>Lecture on the Model, View, Controller architecture</h3>
-      <a target='_blank' href='https://lecture-on-mvc.herokuapp.com/'>
+      <a target='_blank' href='https://nice-teal-clownfish-yoke.cyclic.app/'>
         <img src="mvc.gif" width="100%" alt="MVC"/>
       </a>
       <a target='_blank' href='https://github.com/leandro-alba/todo-mvc'>Link to MVC repo</a>
@@ -52,7 +52,7 @@
   <tr>
     <td width='45%' valign='top'>
       <h3 align='center'>Couch to 5k</h3>
-      <a target='_blank' href='https://c25k.herokuapp.com/'>
+      <a target='_blank' href='https://gifted-rose-pelican.cyclic.app/'>
         <img src="c25kweek6.gif" width="100%" alt="c25k"/>
       </a>
       <a  target='_blank' href='https://github.com/leandro-alba/c25k'>Link to Couch to 5k repo</a>
