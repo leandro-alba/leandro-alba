@@ -36,7 +36,7 @@
       <p><strong>Bcrypt, Connect-mongo, dotenv, EJS, Express, Express-flash, Express-session, MongoDB, Mongoose, Morgan, Nodemon, Passport, Passport-local, Validator, Materialize, Swiper.js</strong> - A study note taking application in the style of flash cards.</p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <h3 align='center'>Lecture on the Model, View, Controller architecture</h3>
       <a target='_blank' href='https://lecture-on-mvc.herokuapp.com/'>
@@ -45,9 +45,9 @@
       <a target='_blank' href='https://github.com/leandro-alba/todo-mvc'>Link to MVC repo</a>
       <p><strong>HTML, CSS, JavaScript, EJS, Express, MongoDB, Nodemon, Mongoose</strong> - Model, View, Controller lecture in a CRUD app. Users learn about MVC by interating with the app.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
-
+<!-- 
 <table>
   <tr>
     <td width='45%' valign='top'>
@@ -67,7 +67,7 @@
       <p><strong>HTML, CSS, JavaScript, EJS, node.js, Express, MongoDB</strong> - A simple CRUD app containing a list of colors. I visit this list when I'm searching for a color I've saved for use on my other projects.</p>
     </td>
   </tr>
-</table>
+</table> -->
 <br>
 <h1 align="center">Technologies</h1>
 <p align="center">
