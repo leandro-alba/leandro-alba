@@ -20,6 +20,15 @@
 <table bordercolor='#66b2b2'>
   <tr>
     <td>
+      <h3 align='center' color='green'>GEMTEKGLOBAL.com</h3>
+        <a target="_blank" href="https://github.com/leandro-alba/gemtekglobal">
+          <img src="gemtekglobal-01.gif" width="100%" alt="gemtek"/>
+        </a>
+        <p><strong>JavaScript, Bootstrap, HTML, CSS</strong> - Website for a client</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3 align='center'>Dora</h3>
         <a target="_blank" href="https://github.com/leandro-alba/dora3">
           <img src="dora3.gif" width="100%" alt="Dora"/>
